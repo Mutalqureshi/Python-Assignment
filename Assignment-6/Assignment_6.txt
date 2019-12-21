@@ -1,0 +1,86 @@
+Question 1:  Define Object Oriented Programming Language?
+
+Answer  =  Object-oriented programming (OOP) refers to a type of computer programming (software design) 
+           in which programmers define the data type of a data structure, and also the types of operations
+           (functions) that can be applied to the data structure.
+
+Encapsulation- 
+The implementation and state of each object are privately held
+inside a defined boundary, or class. Other objects do not have access to this class or
+the authority to make changes but are only able to call a list of public functions, or methods.
+This characteristic of data hiding provides greater program security and avoids unintended data corruption.
+
+Abstraction- 
+Objects in an OOP language provide an abstraction that hides the internal implementation details. 
+
+
+
+Inheritance- 
+Relationships and subclasses between objects can be assigned, allowing developers to reuse a common logic
+while still maintaining a unique hierarchy.
+
+
+
+Polymorphism-
+
+
+Polymorphism is a OOPs concept where one name can have many forms.
+
+For example, you have a smartphone for communication. The communication mode you choose could be anything. 
+It can be a call, a text message, a picture message, mail, etc. So, the goal is common that is communication, 
+but their approach is different. This is called Polymorphism.
+
+
+
+
+Question 2: List down the Benefits of OOP?
+
+Answer
+
+1) OOP provides a clear modular structure for programs.
+2) It is good for defining abstract data types.
+3) It is easy to maintain and modify existing code
+4) objects, methods, instance, message passing, inheritance are some
+   important properties provided by these particular languages
+5)encapsulation, polymorphism, abstraction are also counts in these fundamentals of programming language.
+6)It implements real life scenario.
+
+Question 3: Differentiate between function and method?
+
+A function is a piece of code that is called by name. It can be passed data to operate on (i.e. the parameters) and can optionally return data (the return value). 
+All data that is passed to a function is explicitly passed.
+
+A method is a piece of code that is called by a name that is associated with an object. 
+In most respects it is identical to a function except for two key differences:
+
+1) A method is implicitly passed the object on which it was called.
+2) A method is able to operate on data that is contained within the class (remembering that an object is an instance of a class - the class is the definition, the object is an instance of that data).
+
+
+
+
+Question 4: Define the following terms:
+1. Class
+2. Object
+3. Attribute
+4. Behavior
+
+
+
+Class
+In object-oriented programming , a class is a template definition of the method s and variables
+in a particular kind of object . Thus, an object is a specific instance of a class;
+it contains real values instead of variables.
+
+Object
+In object-oriented programming (OOP), objects are the things you think about first in designing a program
+and they are also the units of code that are eventually derived from the process
+
+Attributes
+Attributes are data stored inside a class or instance and represent the state or quality of the class or 
+instance. In short, attributes store information about the instance. Also, attributes should not be
+confused with class functions also known as methods. 
+
+Behavior
+The behavior of an object is defined by its methods, which are the functions and subroutines defined within the object class.
+Without class methods, a class would simply be a structure.
